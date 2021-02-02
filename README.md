@@ -7,6 +7,5 @@
 ### 计划
 ###### 正式版本2.0.0，暂为32位版本，分英文版和中文版。
 ### 感谢
-##### 主要开发者：Richard 秦
-##### 感谢为此做出贡献的测试人员：Mr.Li 等
-##### 
+##### 主要开发者：Richard 秦 ；感谢为此做出贡献的测试人员：Mr.Li 等
+##### 感谢 Python 强大的库支持。Python：https://www.python.org/ ；中文分词使用 jieba 库：https://github.com/fxsjy/jieba ；词云图绘制 pyecharts 库：https://pyecharts.org/#/zh-cn/ ；UI界面 QT Pyside2 ：https://www.qt.io/
